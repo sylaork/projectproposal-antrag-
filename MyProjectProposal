@@ -1,0 +1,15 @@
+Project constraints:
+600K€ costs (assume all paid at the beginning for simplicity, e.g., can assume developers paid 50K€ and cost 100K€)
+Developers receive a salary of 50K/yr and incur total costs (including overhead like employee taxes, retirement, social security, infrastructure/IT, supplies, building, utilities, etc.) for the company that are double that (100K€/yr). The 600K€ budget (assuming pure software, no project hardware costs) implies that with 1 year development time and constant team size you have 6 developers max on the project with your budget. I did not consider offshoring, but for that case you could assume they cost half a local employee. The budget is for what you want to spend it on.
+1 year of development before release, delivery no later than 31.12. (today is 1.1.)
+Product may have a hardware part or not
+Project assumptions:
+3 year lifespan of product (4 total years)
+Assume interest rate (discount rate) is 5%
+No maintenance costs (for simplification)
+No fixed costs (for simplification)
+Income/revenue cash flows are expected to be:
+140K€ at beginning of 2nd year,
+280K€ at beginning of 3rd,
+420K€ at beginning of 4th.
+All project investment cost is at beginning of project (for simplification).
